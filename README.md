@@ -48,8 +48,8 @@ Create an issue in this repository or contact the Luigi team on our [Slack](http
 
 ## Contributing
 
-To contribute to this project or Luigi itself, first read our [contribution guidelines](https://github.com/SAP/luigi/blob/main/CONTRIBUTING.md).
+To contribute to this project or Luigi itself, first read our [contribution guidelines](https://github.com/luigi-project/luigi/blob/main/CONTRIBUTING.md).
 
 ## License
 
-Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+Please see our [LICENSE](LICENSE) for copyright and license information.
